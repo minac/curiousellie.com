@@ -21,6 +21,9 @@ url: https://curiousellie.com
 
 permalink: /:title/
 
+about:
+  picture: assets/images/about.png
+
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
 
