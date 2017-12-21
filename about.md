@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Ellie is a curious elephant. One that really likes to learn and keep exploring the ever changing technology around IT Infrastructure and DevOps. Curious Ellie is the company that Miguel David uses to do IT consultancy, focussing mainly on startups and small companies.</p>
+<p>Ellie is a curious elephant. One that really likes to learn and keep exploring the ever changing technology around IT Infrastructure and DevOps. Curious Ellie is the brainchild of Miguel David, who is the lead consultant of the company, with expertise on bespoke solutions for startups and small companies.</p>
 
 <h2>Skills</h2>
 
