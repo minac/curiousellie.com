@@ -28,3 +28,10 @@ layout: page
 	<li><a href="https://chic-by-choice.com/">Chic by Choice</a></li>
 	<li><a href="https://www.vigiesolutions.com/">ViGIE Solutions</a></li>
 </ul>
+
+<h2>Certifications</h2>
+
+<ul>
+	<li><a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2018-01-30&ci=AWS00277870">AWS Cloud Practitioner</a></li>
+	<li><a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-01-30&ci=AWS00277870">AWS Associate Solutions Architect</a></li>
+</ul>
