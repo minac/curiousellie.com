@@ -23,10 +23,11 @@ layout: page
 
 <p>I've been involved in the infrastructure of the following projects over time:</p>
 <ul>
-	<li><a href="https://www.wikitribune.com/">WikiTribune</a></li>
-	<li><a href="https://foursource.com/">Foursource</a></li>
-	<li><a href="https://chic-by-choice.com/">Chic by Choice</a></li>
-	<li><a href="https://www.vigiesolutions.com/">ViGIE Solutions</a></li>
+	<li><a href="https://www.wikitribune.com/">WikiTribune</a> - News Agency</li>
+	<li><a href="http://ltplabs.com/">LTP Labs</a> - Big Data Analytics</li>
+	<li><a href="https://chic-by-choice.com/">Chic by Choice</a> - Fashion</li>
+	<li><a href="https://foursource.com/">Foursource</a> - B2B</li>
+	<li><a href="https://www.vigiesolutions.com/">ViGIE Solutions</a> - Sensors and Monitoring</li>
 </ul>
 
 <h2>Certifications</h2>
