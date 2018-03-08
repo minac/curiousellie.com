@@ -34,5 +34,7 @@ layout: page
 
 <ul>
 	<li><a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2018-01-30&ci=AWS00277870">AWS Cloud Practitioner</a></li>
-	<li><a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-01-30&ci=AWS00277870">AWS Associate Solutions Architect</a></li>
+	<li><a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-01-30&ci=AWS00277870">AWS Certified Solutions Architect - Associate</a></li>
+	<li><a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-03-06&ci=AWS00277870">AWS Certified Developer - Associate</a></li>
+	<li><a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-03-06&ci=AWS00277870">AWS Certified SysOps Administrator - Associate</a></li>
 </ul>
