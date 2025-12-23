@@ -32,22 +32,22 @@ about-picture: assets/images/about.png
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [] # only show disqus for posts that have these categories
+    shortname: mydisqus # enter this from your disqus account
+    categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: desfocado
+twitter: migueldavidx
 # google: mygoogle
-instagram: desfocado
+# instagram: desfocado
 # pinterest: mypinterest
 linkedin: migueldavid
 # youtube: myyoutube
 # spotify: myspotify
 github: minac
 # lastfm: mylastfm
-stackoverflow: 3263663/migueldavid
-quora: Miguel-David-2
+# stackoverflow: 3263663/migueldavid
+# quora: Miguel-David-2
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
@@ -60,7 +60,7 @@ authors:
         bio: A curious person about IT Infrastructure and Systems
         external-image: false
         picture: assets/images/miguel.png
-        twitter: desfocado
+        twitter: migueldavidx
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -97,11 +97,11 @@ show-author: true
 animation: true
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-admin
+    - jekyll-seo-tag
+    - jekyll-gist
+    - jekyll-feed
+    - jemoji
+    - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
