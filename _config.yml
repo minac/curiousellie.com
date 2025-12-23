@@ -39,7 +39,7 @@ disqus:
 #facebook: myfacebook
 twitter: migueldavidx
 # google: mygoogle
-instagram: desfocado
+# instagram: desfocado
 # pinterest: mypinterest
 linkedin: migueldavid
 # youtube: myyoutube
@@ -100,7 +100,6 @@ plugins:
     - jekyll-seo-tag
     - jekyll-gist
     - jekyll-feed
-    # - jemoji
     - jekyll-admin
 
 jekyll-mentions:

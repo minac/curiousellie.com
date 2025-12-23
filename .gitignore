@@ -2,3 +2,7 @@
 _site
 .sass-cache
 Gemfile.lock
+.bundle/
+.playwright-mcp/
+vendor/
+.claude/
