@@ -226,6 +226,11 @@ a {
         &:hover {
             color: var(--link-color);
         }
+
+        &.active {
+            color: var(--text-primary);
+            font-weight: 500;
+        }
     }
 }
 
