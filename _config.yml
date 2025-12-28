@@ -1,6 +1,6 @@
 # main text of home
 name: Curious Ellie
-bio: Being curious is just the beginning of a faster and more resilient infrastructure
+bio: Being curious is just the beginning of a faster and more resilient infrastructure.
 
 # twitter summary info
 description: Curious Ellie's IT Infrasucture and DevOps
@@ -21,7 +21,7 @@ url: https://curiousellie.com
 
 permalink: /:title/
 
-about-picture: assets/images/about.png
+about-picture: assets/images/profile.png
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -72,7 +72,7 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
