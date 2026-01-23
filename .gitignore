@@ -6,3 +6,6 @@ Gemfile.lock
 .playwright-mcp/
 vendor/
 .claude/
+
+# Task tracking
+todo.md
