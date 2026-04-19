@@ -66,7 +66,7 @@ This catches broken links, missing images, and HTML issues.
 ### \_config.yml
 
 - `width: large` - Sets content width to 810px (default is 560px)
-- `blog: false` - Blog is currently commented out (only projects enabled)
+- `blog` - Currently commented out in config (only projects enabled)
 - `read-time: true` - Shows estimated reading time on posts
 - `show-tags: true` - Displays tags on posts
 - `related: true` - Shows related posts at bottom
